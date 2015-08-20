@@ -1,16 +1,5 @@
 chilli_recipie.txt
 
-<<<<<<< HEAD
-1
-2
-3 doit before - conflict here
-4 ok here
-||||||| merged common ancestors
-1
-2
-3
-=======
 1 do this
 2 do that
-3 dont do this or that
->>>>>>> 9fb3e8649b72bcfb62a5d0b940594e787d6256c5
+3 doit before - dont do this or that
