@@ -2,5 +2,5 @@ chilli_recipie.txt
 
 1 do this
 2 do that
-3 dont do that or this
+3 then do that or this
 4 to end here
