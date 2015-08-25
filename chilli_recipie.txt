@@ -4,5 +4,4 @@ chilli_recipie.txt
 2 do that
 3 then do that or this
 4 to end here
-5 add enconya extra hot pepparr sauce
-6 add tobasco
+5 add tobascob
